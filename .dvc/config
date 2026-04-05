@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /var/folders/xg/9719_p714mg_fd3y47573jdc0000gn/T/chit-storage
